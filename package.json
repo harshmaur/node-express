@@ -20,8 +20,8 @@
     "express": "^4.13.4"
   },
   "devDependencies": {
-    "eslint": "^2.9.0",
-    "eslint-plugin-react": "^5.0.1",
+    "eslint": "^3.14.1",
+    "eslint-plugin-react": "^6.9.0",
     "express-generator": "^4.13.1"
   }
 }
